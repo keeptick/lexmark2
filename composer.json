@@ -9,7 +9,7 @@
         "laravel/framework": "5.1.*",
         "toddish/verify": "~5",
         "maatwebsite/excel": "~2.0",
-        "barryvdh/laravel-dompdf": "0.6.*",
+        "barryvdh/laravel-dompdf": "0.6.2",
         "phpexcel/phpexcel": "dev-master",
         "laravelcollective/html": "5.1.*",
         "laravel/cashier": "~5.0"
