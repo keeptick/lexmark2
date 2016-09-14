@@ -80,7 +80,8 @@ class JobpriceController extends Controller
             'price' =>'required',
             'job_type' =>'required',
             'job_id' => 'required',
-            'paper_id' => 'required'
+            'paper_id' => 'required',
+            'company_id'=>'required'
         ]);
         if ($validator->fails()) {
             return \Redirect::back()
