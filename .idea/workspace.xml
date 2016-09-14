@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="894a2044-89ec-4b68-bbc2-996da97e2700" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/sessions/e88233b826aeb5c0a65e1f4fc4cb74f23063173e" afterPath="$PROJECT_DIR$/storage/framework/sessions/e88233b826aeb5c0a65e1f4fc4cb74f23063173e" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/pricelist.blade.php" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_03_20_193906_verify_init.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_12_054315_CreateCompaniesTable.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_12_055058_create_branches_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_13_042847_create_jobs_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_13_043846_create_pricejobs_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_13_111329_create_invoicings_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_13_121952_create_invoicings_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_15_155048_create_invoices_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\database\migrations\2015_10_31_221309_create_devices_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\storage\framework\sessions\4cd1634a560b1b8dafad627e6aea0ca51a4e08ec" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\storage\framework\sessions\610f2492887e48e2d4a029d2b6df5d63e669749a" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\storage\framework\sessions\df3991824d64cc0a6ab1ec91d003ee315a4e4bcf" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\storage\framework\sessions\df4c6f16bee4155d68435c12b0ea8589a4943879" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\storage\framework\sessions\e209e5833ce2bad23fad892d697526c85247f684" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\lexmark2\storage\framework\sessions\f832801ba50f50aee12c031c7633e1a73c14d856" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2015_10_12_203559_create_papers_table.php" afterPath="$PROJECT_DIR$/database/migrations/2015_10_12_203559_create_papers_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/JobController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/JobController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/JobpriceController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/JobpriceController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/includes/header.blade.php" afterPath="$PROJECT_DIR$/resources/views/includes/header.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/settings/price.blade.php" afterPath="$PROJECT_DIR$/resources/views/settings/price.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/includes/sidebar.blade.php" afterPath="$PROJECT_DIR$/resources/views/includes/sidebar.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/tablelayout.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/tablelayout.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> b9de3b691e5f7f6bb57bcbfb23e5f0eb6fc8a5b3
     </list>
     <ignored path="lexmark.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -271,38 +300,8 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lexmark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lexmark2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lexmark" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lexmark2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
+<<<<<<< HEAD
+=======
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -315,6 +314,59 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> b9de3b691e5f7f6bb57bcbfb23e5f0eb6fc8a5b3
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexmark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexmark2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="database" />
+=======
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+>>>>>>> b9de3b691e5f7f6bb57bcbfb23e5f0eb6fc8a5b3
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexmark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lexmark2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+=======
+              <option name="myItemId" value="app" />
+>>>>>>> b9de3b691e5f7f6bb57bcbfb23e5f0eb6fc8a5b3
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -390,14 +442,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+<<<<<<< HEAD
     <editor active="false" />
+=======
+    <editor active="true" />
+>>>>>>> b9de3b691e5f7f6bb57bcbfb23e5f0eb6fc8a5b3
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31674957" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16163142" sideWeight="0.66557914" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16163142" sideWeight="0.66557914" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> b9de3b691e5f7f6bb57bcbfb23e5f0eb6fc8a5b3
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2205438" sideWeight="0.3344209" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />

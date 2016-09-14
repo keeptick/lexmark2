@@ -16,13 +16,9 @@ class CreatePapersTable extends Migration
         Schema::create("papers",function(Blueprint $table){
             $table->increments('id');
             $table->string('name',35)->unique();
-			$table->string('size',35);
-            $table->text('description');
+            $table->string('description',25);
             $table->string('dimension',25);
             $table->string('unit',25);
-			$table->decimal('price_mono',5,2);
-			$table->decimal('price_colored',5,2);
-			$table->foreign("company_id")->references("id")->on("companies")->onUpdate("cascade")->onDelete("cascade");
             $table->timestamps();
         });
     }
